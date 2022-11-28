@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>oh baby baby baby oh</title>
+    <link rel="icon" href="bixin.ico" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <style type="text/css">
+        .login-wrapper {
+            width: 100vw;
+            height: 100vh;
+            color: #fff;
+        }
+ 
+        .login {
+            background: rgba(0,206,209, 0.6);
+        }
+ 
+        .slide-img {
+            display: block;
+            width: 100vw;
+            height: 100vh;
+        }
+        .btn-mybg {
+            color: #fff;
+            background-color: #66CDAA;
+            border: none;
+        }
+ 
+            .btn-mybg:hover {
+                color: #fff;
+                background-color: #218838;
+                border-color: #1e7e34;
+            }
+    </style>
+</head>
+<body>
+    <!--轮播开始-->
+    <!--设置position-absolute或position-fixed使得背景位于登录表单下方-->
+    <div id="mySlider" class="carousel slide h-100 position-fixed" data-ride="carousel">
+        <ol class="carousel-indicators position-fixed">
+            <li data-target="#mySlider" data-slide-to="0"></li>
+            <li data-target="#mySlider" data-slide-to="1" class="active"></li>
+            <li data-target="#mySlider" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="slide-img" src="./images/car1.jpg" />
+            </div>
+            <div class="carousel-item">
+                <img class="slide-img" src="./images/car2.jpg" />
+            </div>
+            <div class="carousel-item">
+                <img class="slide-img" src="./images/car3.jpg" />
+            </div>
+            <div class="carousel-item">
+                <img class="slide-img" src="./images/car4.jpg" />
+            </div>
+            <div class="carousel-item">
+                <img class="slide-img" src="./images/car5.jpg" />
+            </div>
+            <div class="carousel-item">
+                <img class="slide-img" src="./images/car6.jpg" />
+            </div>
+        </div>
+        <a class="carousel-control-prev position-fixed" href="#mySlider" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">上一个</span>
+        </a>
+        <a class="carousel-control-next position-fixed" href="#mySlider" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">下一个</span>
+        </a>
+    </div>
+    <!--轮播结束-->
+    <!--表单开始 -->
+    <div class="d-flex justify-content-center login-wrapper">
+        <div class="col-sm-8 col-md-6 col-xl-4 p-4 card align-self-center login">
+            <div class="card-header text-center bg-transparent">
+                <h4 class="mb-0">WebServer欢迎您!</h4>
+            </div>
+            <div class="card-body">
+                <form action="1" method="post">
+                    
+                    <div class="">
+                        <button type="submit" class="btn btn-mybg btn-block" >登&nbsp;&nbsp;录</button>
+                    </div>
+                </form><br>
+                <form action="0" method="post">
+                    <div class="">
+                        <button type="submit" class="btn btn-mybg btn-block" >注&nbsp;&nbsp;册</button>
+                    </div>
+                </form><br>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>

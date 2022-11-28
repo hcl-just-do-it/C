@@ -1,0 +1,261 @@
+2022-11-28 02:48:14.643202 [info]: deal with the client(193.112.170.234)
+2022-11-28 02:48:14.643326 [info]: adjust timer once
+2022-11-28 02:48:14.643342 [info]: GET /images/car6.jpg HTTP/1.1
+2022-11-28 02:48:14.643374 [info]: Host: 124.220.24.140:9006
+2022-11-28 02:48:14.643382 [info]: User-Agent: Go-http-client/1.1
+2022-11-28 02:48:14.643388 [info]: oop!unknow header: User-Agent: Go-http-client/1.1
+2022-11-28 02:48:14.643394 [info]: Accept-Encoding: gzip
+2022-11-28 02:48:14.643400 [info]: oop!unknow header: Accept-Encoding: gzip
+2022-11-28 02:48:14.643406 [info]: Connection: close
+2022-11-28 02:48:14.643412 [info]: 
+2022-11-28 02:48:14.643419 [info]: m_url:/images/car6.jpg
+
+2022-11-28 02:48:14.643440 [info]: request:HTTP/1.1 200 OK
+
+2022-11-28 02:48:14.643445 [info]: request:HTTP/1.1 200 OK
+Content-Length:14656
+
+2022-11-28 02:48:14.643449 [info]: request:HTTP/1.1 200 OK
+Content-Length:14656
+Connection:close
+
+2022-11-28 02:48:14.643454 [info]: request:HTTP/1.1 200 OK
+Content-Length:14656
+Connection:close
+
+
+2022-11-28 02:48:14.643542 [info]: close fd 16
+2022-11-28 02:49:16.589360 [info]: deal with the client(106.55.200.47)
+2022-11-28 02:49:16.589409 [info]: adjust timer once
+2022-11-28 02:49:16.589423 [info]: GET /images/car2.jpg HTTP/1.1
+2022-11-28 02:49:16.589456 [info]: Host: 124.220.24.140:9006
+2022-11-28 02:49:16.589465 [info]: User-Agent: Go-http-client/1.1
+2022-11-28 02:49:16.589472 [info]: oop!unknow header: User-Agent: Go-http-client/1.1
+2022-11-28 02:49:16.589479 [info]: Accept-Encoding: gzip
+2022-11-28 02:49:16.589485 [info]: oop!unknow header: Accept-Encoding: gzip
+2022-11-28 02:49:16.589492 [info]: Connection: close
+2022-11-28 02:49:16.589499 [info]: 
+2022-11-28 02:49:16.589507 [info]: m_url:/images/car2.jpg
+
+2022-11-28 02:49:16.589529 [info]: request:HTTP/1.1 200 OK
+
+2022-11-28 02:49:16.589534 [info]: request:HTTP/1.1 200 OK
+Content-Length:9172
+
+2022-11-28 02:49:16.589539 [info]: request:HTTP/1.1 200 OK
+Content-Length:9172
+Connection:close
+
+2022-11-28 02:49:16.589544 [info]: request:HTTP/1.1 200 OK
+Content-Length:9172
+Connection:close
+
+
+2022-11-28 02:49:16.589629 [info]: close fd 16
+2022-11-28 02:50:10.560241 [info]: deal with the client(89.248.165.21)
+2022-11-28 02:50:10.560290 [info]: adjust timer once
+2022-11-28 02:50:12.560364 [info]: close fd 16
+2022-11-28 03:17:58.933780 [info]: deal with the client(111.230.173.224)
+2022-11-28 03:17:58.933831 [info]: adjust timer once
+2022-11-28 03:17:58.933841 [info]: GET /images/car4.jpg HTTP/1.1
+2022-11-28 03:17:58.933872 [info]: Host: 124.220.24.140:9006
+2022-11-28 03:17:58.933881 [info]: User-Agent: Go-http-client/1.1
+2022-11-28 03:17:58.933888 [info]: oop!unknow header: User-Agent: Go-http-client/1.1
+2022-11-28 03:17:58.933895 [info]: Accept-Encoding: gzip
+2022-11-28 03:17:58.933901 [info]: oop!unknow header: Accept-Encoding: gzip
+2022-11-28 03:17:58.933908 [info]: Connection: close
+2022-11-28 03:17:58.933915 [info]: 
+2022-11-28 03:17:58.933922 [info]: m_url:/images/car4.jpg
+
+2022-11-28 03:17:58.933948 [info]: request:HTTP/1.1 200 OK
+
+2022-11-28 03:17:58.933953 [info]: request:HTTP/1.1 200 OK
+Content-Length:9172
+
+2022-11-28 03:17:58.933958 [info]: request:HTTP/1.1 200 OK
+Content-Length:9172
+Connection:close
+
+2022-11-28 03:17:58.933963 [info]: request:HTTP/1.1 200 OK
+Content-Length:9172
+Connection:close
+
+
+2022-11-28 03:17:58.934043 [info]: close fd 16
+2022-11-28 03:20:23.559227 [info]: deal with the client(89.248.165.7)
+2022-11-28 03:20:23.559264 [info]: adjust timer once
+2022-11-28 03:20:23.559275 [info]: 
+2022-11-28 03:20:23.559318 [info]: request:HTTP/1.1 404 Not Found
+
+2022-11-28 03:20:23.559327 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+
+2022-11-28 03:20:23.559334 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2022-11-28 03:20:23.559341 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2022-11-28 03:20:23.559347 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2022-11-28 03:20:23.559392 [info]: close fd 16
+2022-11-28 03:26:28.422732 [info]: deal with the client(89.248.163.132)
+2022-11-28 03:26:28.422784 [info]: adjust timer once
+2022-11-28 03:26:28.422797 [info]: 
+2022-11-28 03:26:28.422829 [info]: request:HTTP/1.1 404 Not Found
+
+2022-11-28 03:26:28.422837 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+
+2022-11-28 03:26:28.422844 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2022-11-28 03:26:28.422851 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2022-11-28 03:26:28.422857 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2022-11-28 03:26:28.422904 [info]: close fd 16
+2022-11-28 03:58:31.515504 [info]: deal with the client(106.55.202.41)
+2022-11-28 03:58:31.515555 [info]: adjust timer once
+2022-11-28 03:58:31.515566 [info]: GET /images/car5.jpg HTTP/1.1
+2022-11-28 03:58:31.515597 [info]: Host: 124.220.24.140:9006
+2022-11-28 03:58:31.515606 [info]: User-Agent: Go-http-client/1.1
+2022-11-28 03:58:31.515613 [info]: oop!unknow header: User-Agent: Go-http-client/1.1
+2022-11-28 03:58:31.515619 [info]: Accept-Encoding: gzip
+2022-11-28 03:58:31.515625 [info]: oop!unknow header: Accept-Encoding: gzip
+2022-11-28 03:58:31.515632 [info]: Connection: close
+2022-11-28 03:58:31.515639 [info]: 
+2022-11-28 03:58:31.515646 [info]: m_url:/images/car5.jpg
+
+2022-11-28 03:58:31.515673 [info]: request:HTTP/1.1 200 OK
+
+2022-11-28 03:58:31.515678 [info]: request:HTTP/1.1 200 OK
+Content-Length:10672
+
+2022-11-28 03:58:31.515684 [info]: request:HTTP/1.1 200 OK
+Content-Length:10672
+Connection:close
+
+2022-11-28 03:58:31.515689 [info]: request:HTTP/1.1 200 OK
+Content-Length:10672
+Connection:close
+
+
+2022-11-28 03:58:31.515775 [info]: close fd 16
+2022-11-28 04:00:53.160800 [info]: deal with the client(89.248.163.132)
+2022-11-28 04:00:53.160871 [info]: adjust timer once
+2022-11-28 04:00:53.160886 [info]: 
+2022-11-28 04:00:53.160918 [info]: request:HTTP/1.1 404 Not Found
+
+2022-11-28 04:00:53.160927 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+
+2022-11-28 04:00:53.160934 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2022-11-28 04:00:53.160941 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2022-11-28 04:00:53.160947 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2022-11-28 04:00:53.160999 [info]: close fd 16
+2022-11-28 04:21:26.554550 [info]: deal with the client(89.248.163.167)
+2022-11-28 04:21:26.554595 [info]: adjust timer once
+2022-11-28 04:21:26.554610 [info]: 
+2022-11-28 04:21:26.554639 [info]: request:HTTP/1.1 404 Not Found
+
+2022-11-28 04:21:26.554647 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+
+2022-11-28 04:21:26.554655 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2022-11-28 04:21:26.554662 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2022-11-28 04:21:26.554668 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2022-11-28 04:21:26.554715 [info]: close fd 16
+2022-11-28 04:53:55.811451 [info]: deal with the client(106.55.200.246)
+2022-11-28 04:53:55.811504 [info]: adjust timer once
+2022-11-28 04:53:55.811516 [info]: GET /images/car1.jpg HTTP/1.1
+2022-11-28 04:53:55.811546 [info]: Host: 124.220.24.140:9006
+2022-11-28 04:53:55.811554 [info]: User-Agent: Go-http-client/1.1
+2022-11-28 04:53:55.811562 [info]: oop!unknow header: User-Agent: Go-http-client/1.1
+2022-11-28 04:53:55.811568 [info]: Accept-Encoding: gzip
+2022-11-28 04:53:55.811575 [info]: oop!unknow header: Accept-Encoding: gzip
+2022-11-28 04:53:55.811582 [info]: Connection: close
+2022-11-28 04:53:55.811589 [info]: 
+2022-11-28 04:53:55.811597 [info]: m_url:/images/car1.jpg
+
+2022-11-28 04:53:55.811620 [info]: request:HTTP/1.1 200 OK
+
+2022-11-28 04:53:55.811626 [info]: request:HTTP/1.1 200 OK
+Content-Length:19938
+
+2022-11-28 04:53:55.811641 [info]: request:HTTP/1.1 200 OK
+Content-Length:19938
+Connection:close
+
+2022-11-28 04:53:55.811646 [info]: request:HTTP/1.1 200 OK
+Content-Length:19938
+Connection:close
+
+
+2022-11-28 04:53:55.811740 [info]: close fd 16
+2022-11-28 08:13:20.334380 [info]: deal with the client(89.248.165.37)
+2022-11-28 08:13:20.334436 [info]: adjust timer once
+2022-11-28 08:13:22.334346 [info]: close fd 16
+2022-11-28 09:54:14.970171 [info]: deal with the client(89.248.163.167)
+2022-11-28 09:54:14.970225 [info]: adjust timer once
+2022-11-28 09:54:14.970238 [info]: 
+2022-11-28 09:54:14.970280 [info]: request:HTTP/1.1 404 Not Found
+
+2022-11-28 09:54:14.970289 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+
+2022-11-28 09:54:14.970297 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2022-11-28 09:54:14.970304 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2022-11-28 09:54:14.970310 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2022-11-28 09:54:14.970361 [info]: close fd 16
