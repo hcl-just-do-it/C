@@ -1,0 +1,4 @@
+1	name1	nan	20000209	java	2019	zong
+1	name1	nan	20000209	java	2020	zong
+1	name1	nan	20030209	java	2021	zong
+20221219	lihua	nv	20000209	gangwei	2018	¼¶±ð

@@ -1,0 +1,8 @@
+﻿  jzg.cpp
+C:\Users\hcl\Desktop\Project1\jzg.cpp(115,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hcl\Desktop\Project1\jzg.cpp(120,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hcl\Desktop\Project1\jzg.cpp(136,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hcl\Desktop\Project1\jzg.cpp(141,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hcl\Desktop\Project1\jzg.cpp(159,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hcl\Desktop\Project1\jzg.cpp(164,22): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> C:\Users\hcl\Desktop\Project1\Debug\Project1.exe

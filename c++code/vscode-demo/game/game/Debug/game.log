@@ -1,0 +1,7 @@
+﻿  stringcoin-game.cpp
+C:\Users\hcl\Desktop\game\stringcoin-game.cpp(24,47): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\hcl\Desktop\game\stringcoin-game.cpp(29,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\hcl\Desktop\game\stringcoin-game.cpp(29,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  stringcoin.cpp
+  正在生成代码...
+  game.vcxproj -> C:\Users\hcl\Desktop\c++code\vscode-demo\game\Debug\game.exe
